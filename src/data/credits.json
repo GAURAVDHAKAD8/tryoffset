@@ -1,0 +1,72 @@
+[
+  {
+    "image":"https://www.mol.co.jp/en/bam/003/img/img001.jpg",
+    "unic_id": "UNIC-VCS-IND-2023-4F7A8C1B",
+    "project_name": "Mangrove Restoration Project",
+    "vintage": 2023,
+    "status": "Active"
+  },
+  {
+    "image":"https://static.toiimg.com/thumb/msid-113144396,width-1280,height-720,resizemode-72/113144396.jpg",
+    "unic_id": "UNIC-GS-IND-2022-8A1B2C3D",
+    "project_name": "Solar Power Plant Maharashtra",
+    "vintage": 2022,
+    "status": "Retired"
+  },
+  {
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHrdBDjqmdRrX_dUsHIC9_QHbrVnHH0ZSZ1Q&s",
+    "unic_id": "UNIC-VCS-IND-2021-9D4E7F8G",
+    "project_name": "Wind Farm Rajasthan",
+    "vintage": 2021,
+    "status": "Active"
+  },
+  {
+    "image": "https://egov.eletsonline.com/wp-content/uploads/2023/06/Bio-Gas.jpg",
+    "unic_id": "UNIC-ACR-IND-2020-1A2B3C4D",
+    "project_name": "Biogas Energy Punjab",
+    "vintage": 2020,
+    "status": "Active"
+  },
+  {
+    "image": "https://etimg.etb2bimg.com/thumb/msid-57230969,width-1200,height-900,resizemode-4/.jpg",
+    "unic_id": "UNIC-GS-IND-2019-6B7C8D9E",
+    "project_name": "Hydro Dam Uttarakhand",
+    "vintage": 2019,
+    "status": "Retired"
+  },
+  {
+    "image": "https://shop.ielecssol.com/wp-content/uploads/2022/05/Untitled-3.jpg",
+    "unic_id": "UNIC-VCS-IND-2023-7C8D9E0F",
+    "project_name": "Solar Rooftops Delhi",
+    "vintage": 2023,
+    "status": "Active"
+  },
+  {
+    "image": "https://growbilliontrees.com/cdn/shop/files/iStock-1401200694-agroforestry.jpg?v=1735209441&width=1500",
+    "unic_id": "UNIC-VCS-IND-2021-8E9F0A1B",
+    "project_name": "Agroforestry Karnataka",
+    "vintage": 2021,
+    "status": "Active"
+  },
+  {
+    "image": "https://www.teriin.org/sites/default/files/2018-04/clean-cooking-og.jpg",
+    "unic_id": "UNIC-GS-IND-2022-9F0A1B2C",
+    "project_name": "Cookstove Distribution Bihar",
+    "vintage": 2022,
+    "status": "Retired"
+  },
+  {
+    "image": "https://growbilliontrees.com/cdn/shop/files/grow-billion-trees-plantation-3.jpg?v=1712395742&width=1500",
+    "unic_id": "UNIC-ACR-IND-2020-0B1C2D3E",
+    "project_name": "Reforestation Assam",
+    "vintage": 2020,
+    "status": "Active"
+  },
+  {
+    "image": "https://static.gujaratsamachar.com/content_image/content_image_edb5e1ee-dca4-43f0-a439-a16981ceeb66.jpeg",
+    "unic_id": "UNIC-VCS-IND-2018-1C2D3E4F",
+    "project_name": "Waste-to-Energy Gujarat",
+    "vintage": 2018,
+    "status": "Retired"
+  }
+]

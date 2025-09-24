@@ -1,4 +1,5 @@
-
+I built the project in React and kept the design simple and easy to use. I used a gray background with light green accents to give it a natural look. Each credit is shown as a card with an image, project details, and a status badge. On mobile, the cards stack one below the other with smaller text so it's easy to read.
+The download button works only for retired credits and is disabled for active ones, so users can only download certificates when they are available. To handle many credits, I planned to use pagination or infinite scrolling so the dashboard stays fast.
 
   
 Website link: https://tryoffset-rn4g.vercel.app/
